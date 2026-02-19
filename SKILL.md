@@ -4,7 +4,7 @@ description: A systematic examination of claimed choices, decisions, and acts of
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4470
+  version: 1.0.4471
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mechanicalness-audit
